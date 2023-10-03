@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+}
+body {
+    background-image: url(https://cdn.wallpapersafari.com/53/37/5FgIeG.jpg);
+    background-size: cover;
+}
+div {
+    color: white;
+    text-align: center;
+}
+img {
+    width: 300;
+    height: 200;
+    display: block;
+    margin: 0 auto;
+}
+.dibuat_oleh {
+    text-align: center;
+    color: black;
+    background-color: aqua;
+}
