@@ -1,0 +1,49 @@
+h1 {
+    text-align: center;
+}
+body {
+    background-image: url(https://cdn.wallpapersafari.com/53/37/5FgIeG.jpg);
+    background-size: cover;
+}
+div {
+    color: white;
+    text-align: center;
+}
+img {
+    width: 300;
+    height: 200;
+    display: block;
+    margin: 0 auto;
+}
+.dibuat_oleh {
+    text-align: center;
+    color: black;
+    background-color: aqua;
+}
+
+table,th,td {
+    border: 1px solid green;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+th {
+    text-align: center;
+    background-color: aqua;
+}
+tr:nth-child(even) {
+    background-color: tomato;
+}
+tr:nth-child(odd) {
+    background-color: yellow;
+}
+th, td {
+     padding: 10px;
+}
+caption {
+    text-align: center;
+    caption-side: top;
+}
+form {
+    color: white;
+}
